@@ -1,7 +1,7 @@
 baseURL: "https://keen-bienenstitch-e0d235.netlify.app" #http://example.org/
 languageCode: en-us
 title: My First Hugo Site
-theme:  hugo-PaperMod # hugo-arogya-theme #
+theme: starter-hugo-research-group # hugo-PaperMod # hugo-arogya-theme #
 
 
 
@@ -33,6 +33,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 20 
+    - name: Academic
+      parent: tags
+      url: tags/academic/
+      weight: 10
     - identifier: archives
       name: Archives
       url: /archives/
