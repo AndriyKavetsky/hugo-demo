@@ -33,7 +33,8 @@ menu:
       name: Tags
       url: /tags/
       weight: 20 
-    - name: Academic
+    - identifier: academic  
+      name: Academic
       parent: tags
       url: tags/academic/
       weight: 10
