@@ -46,3 +46,8 @@ menu:
       parent: contact
       url: contact/academic/
       weight: 1  
+    - identifier: something
+      name: Something
+      parent: contact
+      url: contact/something/
+      weight: 2
