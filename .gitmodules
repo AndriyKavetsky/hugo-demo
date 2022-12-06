@@ -6,4 +6,8 @@
     path = themes/hugo-arogya-theme
     url = "https://github.com/ameio/hugo-arogya-theme.git"
 
+[submodule "themes/starter-hugo-academic"]
+    path = themes/starter-hugo-academic
+    url = "https://github.com/wowchemy/starter-hugo-academic.git"
+
     
