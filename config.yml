@@ -1,7 +1,7 @@
 baseURL: "https://keen-bienenstitch-e0d235.netlify.app" #http://example.org/
 languageCode: en-us
 title: My First Hugo Site
-theme: hugo-PaperMod # starter-hugo-research-group # hugo-PaperMod # hugo-arogya-theme #
+theme: starter-hugo-academic # hugo-PaperMod # starter-hugo-research-group # hugo-PaperMod # hugo-arogya-theme #
 
 
 

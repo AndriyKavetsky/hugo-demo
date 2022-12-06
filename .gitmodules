@@ -7,3 +7,6 @@
     url = "https://github.com/ameio/hugo-arogya-theme.git"
 
     
+[submodule "starter-hugo-academic"]
+	path = starter-hugo-academic
+	url = https://github.com/wowchemy/starter-hugo-academic.git
