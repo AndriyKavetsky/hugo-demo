@@ -1,8 +1,17 @@
 baseURL: "https://keen-bienenstitch-e0d235.netlify.app" #http://example.org/
 languageCode: en-us
 title: My First Hugo Site
-theme: starter-hugo-academic # hugo-PaperMod # starter-hugo-research-group # hugo-PaperMod # hugo-arogya-theme #
+theme: starter-hugo-academic # starter-hugo-research-group # hugo-PaperMod # hugo-arogya-theme #
 
+############################
+## MODULES
+############################
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 
 params:
